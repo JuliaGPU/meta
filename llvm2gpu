@@ -1,5 +1,5 @@
 #### Julia-Backend
-So fo the Julia backend `maleadt` had a working protoype for CUDA https://groups.google.com/forum/#!topic/julia-dev/doQUqQabC8A
+So for the Julia backend `maleadt` had a working protoype for CUDA https://groups.google.com/forum/#!topic/julia-dev/doQUqQabC8A
 Following this outline we need a way to switch the target of the compilation module ( a macro and the necessary backend changes), address space preserving bitcasts and an extended llvmcall/llvmdecl.
 
 #### Links and further information
